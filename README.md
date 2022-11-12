@@ -19,3 +19,7 @@
 *2022.7.1 Update:*
 - 这是由我开发的一个可以在线查询自然码辅助码的网站，便利大家使用。
 - [AuxcodeQuerier](https://copperay.github.io/AuxcodeQuerier)
+
+# Zacqs
+*2022.11.12 Update:*
+- Zacqs, or Ziranma Auxiliary-Code Querying System（自然码辅助码查询系统）, is my latest App developed under WPF framwork, providing the same features of CodeSearcher, which is writen under Qt instead of WPF, thus higher performance and less storage space occupation than CodeSearcher available. 
