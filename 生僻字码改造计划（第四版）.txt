@@ -1,0 +1,26 @@
+# 收录《自然码2009新春版》码表中与常用二字词冲突的四码生僻字和部分不合理编码（第四版）
+# 预计将形成《ZRM_Zux-code_4.3.txt》
+
+祴	gduj
+脀	vgyi
+沶	iidu
+湁	iidu
+滍	vidi
+鉵	tsji
+颛	vrye
+顓	vrye
+諯	vrye
+嘇	cjkc
+厣	yjjy
+觾	yjjy
+峸	igui
+鼘	yrgu
+幤	biji
+齍	zidm
+翑	yuyj
+灲	xnhd
+灱	xnhd
+檪	limm
+夂	vswf
+塣	vgti
+拯	vgti

@@ -76,11 +76,15 @@
 - 已删除《生僻字码改造计划（第二版）》中收录的词条
 - 已删除《生僻字码改造计划（第三版）》中收录的词条
 
+*2023.1.30 Update:* `ZRM_Aux-code_4.3.txt`
+
+- 已删除《生僻字码改造计划（第四版）》中收录的词条
+
 # 生僻字码改造计划
 
 - 生僻字码改造计划是我结合实际使用，设想的一个对码表的优化计划。旨在将《自然码2009新春版》码表中与常用二字词冲突的四码生僻字和部分不合理编码剔除，以此达到尽量不影响生僻字输入的前提下，减少对常用四码二字词的输入的妨碍，提高输入效率。
 - 热心的本套码表的使用者们，你们也可举出你们在使用过程中发现的，与高频的四码二字词冲突的四码生僻字，我新开了一个Issue专门讨论这个计划，十分感谢您为码表优化所做的贡献！
-- 当然，如果您不喜欢这样的改造，您完全可以选择未经修改的4.0（不包含4.0）以前的版本：`ZRM_Aux-code.txt`、`ZRM_Aux-code_2.0.txt`、`ZRM_Aux-code_3.0.txt`
+- 当然，如果您不喜欢这样的改造，您可以选择未经修改的以前版本：`ZRM_Aux-code.txt`、`ZRM_Aux-code_2.0.txt`、`ZRM_Aux-code_3.0.txt`
 
 # CodeSearcher
 *2022.2.4 Update:*
@@ -94,7 +98,7 @@
 
 # Zacqs
 *2022.11.12 Update:*
-- Zacqs, or Ziranma Auxiliary-Code Querying System（自然码辅助码查询系统）, is my latest App developed under WPF framwork, providing the same features of CodeSearcher, which is writen under Qt instead of WPF, thus higher performance and less storage space occupation than CodeSearcher available. 
+- Zacqs, or Ziranma Auxiliary-Code Querying System（自然码辅助码查询系统）, is my latest App developed under WPF framework, providing the same features of CodeSearcher, which is written under Qt instead of WPF, thus higher performance and less storage space occupation than CodeSearcher available. 
 
 *2022.12.1 Update:*
 - 新增默认按钮为查询，即输入查询字后按回车即可查询
